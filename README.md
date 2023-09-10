@@ -1,4 +1,5 @@
 # Home_Price_Prediction-Linear-Regression-Analysis 
+### Authors: James Maikara, Frank Mandele, Trevor Mwangi
 
 ## Project Overview
 
