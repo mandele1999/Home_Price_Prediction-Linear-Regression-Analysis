@@ -20,7 +20,7 @@ The stakeholder for this project is a commercial real estate company looking to 
 
 ## Prediction Models 
 First Model was created using the strongest correlated continuous data feature then results interpreted.
-Second model was created using both the strongest correlation feature with the promising discrete variable predictor.
+Second model was for the grade features against the price
  ![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/941318a8-2b5e-4693-8327-5be2400139df) 
 
  ## Conclusion 
