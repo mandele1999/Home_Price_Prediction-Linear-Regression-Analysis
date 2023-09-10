@@ -21,7 +21,12 @@ The stakeholder for this project is a commercial real estate company looking to 
 ## Prediction Models 
 First Model was created using the strongest correlated continuous data feature then results interpreted.
 Second model was for the grade features against the price
- ![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/941318a8-2b5e-4693-8327-5be2400139df) 
+
+ sqft_livingwas the attribute most strongly correlated with price, therefore our model is describing this relationship.
+
+Overall, this model is statistically significant with a p-value well below the standard alpha of 0.05 and it explains about 49.3% of the variance in price(*R-Squared*) i.e. coefficient of determination. In a typical prediction, the model is off by about $173k which is not very good.
+
+The intercept is at about -43k dollars.This means that for zero sqft_living our model would predict a price of - 43k dollars. The coefficient for sqft_living is about 280 dollars. This means for each additional sqft, the sqft_living costs about $280 more.
 
  ## Conclusion 
  Given how grade alone can influence the price of a house, homeowners should invest in the maintenance and repair worn out features such as paint, roofing in order to improve the overall condition of the house.
