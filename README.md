@@ -24,6 +24,9 @@ Second model was created using both the strongest correlation feature with the p
  ![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/941318a8-2b5e-4693-8327-5be2400139df) 
 
  ## Conclusion 
+ Given how grade alone can influence the price of a house, homeowners should invest in the maintenance and repair worn out features such as paint, roofing in order to improve the overall condition of the house.
+
+It's also observed that houses with better quality materials and better construction on general attracts high pricing to houses, it is therefore advisable for home owners with larger budgets to invest in design upgrades but then not to extreme ends as it can be seen from the analysis how grade_8_goodseems to have a higher effect than higher grade homes.
 
 
 
