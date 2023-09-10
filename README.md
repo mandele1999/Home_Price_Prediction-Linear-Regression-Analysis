@@ -18,7 +18,9 @@ The stakeholder for this project is a commercial real estate company looking to 
 ### Correlation Heatmap
 ![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/d871521f-a5b6-4511-9c63-38085a9c1e04) 
 
-## Prediction Models
+## Prediction Models 
+First Model was created using the strongest correlated continuous data feature then results interpreted.
+Second model was created using both the strongest correlation feature with the promising discrete variable predictor.
 
 
 
