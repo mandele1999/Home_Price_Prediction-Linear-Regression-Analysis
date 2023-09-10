@@ -1,4 +1,5 @@
 # Home_Price_Prediction-Linear-Regression-Analysis 
+### Authors: James Maikara, Frank Mandele, Trevor Mwangi
 
 ## Project Overview
 
@@ -30,6 +31,15 @@ The intercept is at about -43k dollars.This means that for zero sqft_living our 
 Overall, this model is statistically significant with a p-value well below the standard alpha of 0.05 and it explains about 49.3% of the variance in price(*R-Squared*) i.e. coefficient of determination. In a typical prediction, the model is off by about $173k which is not very good.
 
 The intercept is at about -43k dollars.This means that for zero sqft_living our model would predict a price of - 43k dollars. The coefficient for sqft_living is about 280 dollars. This means for each additional sqft, the sqft_living costs about $280 more.
+
+### Second model
+Overall the model performed marginally better. We were off by about $156k rather\nthan $173k in a given prediction, and explained 58.2% rather than 49.3% of the\nvariance in price.
+###Comparison
+![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/4522c440-9914-4e44-8364-8f7e6031992a)
+![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/de3277f7-20cc-4e32-af3f-3e12d09a59f4)
+From the two visualizations, model 2 has a higher R2 and lower mean squared error than the first model, which might be and indication of an improvement in our model
+
+
 
  ## Conclusion 
  Given how grade alone can influence the price of a house, homeowners should invest in the maintenance and repair worn out features such as paint, roofing in order to improve the overall condition of the house.
