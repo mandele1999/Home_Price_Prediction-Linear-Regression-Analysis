@@ -16,7 +16,10 @@ The stakeholder for this project is a commercial real estate company looking to 
 
 ## Modeling
 ### Correlation Heatmap
-![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/d871521f-a5b6-4511-9c63-38085a9c1e04)
+![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/d871521f-a5b6-4511-9c63-38085a9c1e04) 
+
+## Prediction Models
+
 
 
 
