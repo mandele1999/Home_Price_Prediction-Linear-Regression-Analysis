@@ -22,8 +22,11 @@ The stakeholder for this project is a commercial real estate company looking to 
 First Model was created using the strongest correlated continuous data feature then results interpreted.
 Second model was for the grade features against the price
 
- sqft_livingwas the attribute most strongly correlated with price, therefore our model is describing this relationship.
+sqft_livingwas the attribute most strongly correlated with price, therefore our model is describing this relationship.
+### First model 
+Overall, this model is statistically significant with a p-value well below the standard alpha of 0.05 and it explains about 49.3% of the variance in price(*R-Squared*) i.e. coefficient of determination. In a typical prediction, the model is off by about $173k which is not very good.
 
+The intercept is at about -43k dollars.This means that for zero sqft_living our model would predict a price of - 43k dollars. The coefficient for sqft_living is about 280 dollars. This means for each additional sqft, the sqft_living costs about $280 more.
 Overall, this model is statistically significant with a p-value well below the standard alpha of 0.05 and it explains about 49.3% of the variance in price(*R-Squared*) i.e. coefficient of determination. In a typical prediction, the model is off by about $173k which is not very good.
 
 The intercept is at about -43k dollars.This means that for zero sqft_living our model would predict a price of - 43k dollars. The coefficient for sqft_living is about 280 dollars. This means for each additional sqft, the sqft_living costs about $280 more.
