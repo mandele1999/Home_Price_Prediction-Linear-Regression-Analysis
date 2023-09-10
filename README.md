@@ -36,7 +36,7 @@ Overall the model performed marginally better. We were off by about $156k rather
 ###Comparison
 ![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/4522c440-9914-4e44-8364-8f7e6031992a)
 ![image](https://github.com/mandele1999/Home_Price_Prediction-Linear-Regression-Analysis/assets/133136216/de3277f7-20cc-4e32-af3f-3e12d09a59f4)
-
+From the two visualizations, model 2 has a higher R2 and lower mean squared error than the first model, which might be and indication of an improvement in our model
 
 
 
