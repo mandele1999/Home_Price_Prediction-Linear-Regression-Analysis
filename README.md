@@ -31,6 +31,11 @@ Overall, this model is statistically significant with a p-value well below the s
 
 The intercept is at about -43k dollars.This means that for zero sqft_living our model would predict a price of - 43k dollars. The coefficient for sqft_living is about 280 dollars. This means for each additional sqft, the sqft_living costs about $280 more.
 
+### Second model
+Overall the model performed marginally better. We were off by about $156k rather\nthan $173k in a given prediction, and explained 58.2% rather than 49.3% of the\nvariance in price.
+###Comparison
+
+
  ## Conclusion 
  Given how grade alone can influence the price of a house, homeowners should invest in the maintenance and repair worn out features such as paint, roofing in order to improve the overall condition of the house.
 
