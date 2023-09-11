@@ -3,13 +3,13 @@
 
 ## Project Overview
 
-This project uses multiple linear regression modeling to analyze house They are primarily interested in: what zipcodes have the lowest prices, predicted prices of homes in the area, and any relevant differences between the real prices and our model's predicted price.sales in a northwestern county.
+This project uses multiple linear regression modeling and iterative linear regression modeling to analyze house prices in relation to renovations. They are primarily interested in how renovations influence house pricing and models are created to provide estimates of prices which are then evaluated for fitness in our findings.
 
 ## Business and Data Understanding
 
-Jamii Real Estate wants to purchase homes in the Seattle area. They have tasked us with determining how much to spend on a home, on average, and areas to purchase homes in.
+A real estate agency wants to purchase homes in the Seattle area. They have tasked us with determining how much to spend on a home, on average, and areas to purchase homes in.
 
-Our data set contains information of houses sold such as price, square footage and grade of the house.
+Our data set contains information of houses sold such as price, square footage and grade of the house. 
 
 ## Explain your stakeholder audience here
 
@@ -42,9 +42,7 @@ From the two visualizations, model 2 has a higher R2 and lower mean squared erro
 
 
  ## Conclusion 
- Given how grade alone can influence the price of a house, homeowners should invest in the maintenance and repair worn out features such as paint, roofing in order to improve the overall condition of the house.
-
-It's also observed that houses with better quality materials and better construction on general attracts high pricing to houses, it is therefore advisable for home owners with larger budgets to invest in design upgrades but then not to extreme ends as it can be seen from the analysis how grade_8_goodseems to have a higher effect than higher grade homes.
+ From the analysis done, it is evident that property features accounted for in our input variables does indeed play a cruicial role in pricing of houses. Visualizations also indicate that better designs and better building materials demand relatively higher prices than average-standard setups. That said, it would be advisable for homeowners to take home maintenance through repairs of worn-out structures to ensure the property condition score is above average at least and investing more into design upgrades under advisement should they consider to sell / buy a house(s). Additional features such as having a waterfront seemed to attrach higher pricing for houses
 
 
 
